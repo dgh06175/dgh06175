@@ -1,4 +1,9 @@
-### Hi there 👋
+이상현 입니다.
+
+### 활동
+
+- 2023.4 한이음 스마트해상물류 ICT멘토링 `진행중`
+- 2023.7 네이버 부스트캠프 웹・모바일 8기 챌린지 `수료`
 
 <!--
 **dgh06175/dgh06175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
