@@ -1,6 +1,16 @@
 이상현 입니다 👋
 
-[블로그](https://velog.io/@dgh06175)
+![](http://www.google.com/s2/favicons?domain=https://velog.io) [블로그 링크](https://velog.io/@dgh06175)
+
+<p>
+    <a href="https://github.com/dgh06175/github-readme-stats">
+        <img height="180px" src="https://github-readme-stats.vercel.app/api?username=dgh06175&show_icons=true&theme=vue&bg_color=FFFFFF,FFFFFF,FFFFFF,FFFFFF,FFFFFF,FFFFFF,ccf7c9,ccf7c9,ccf7c9,ccf7c9&icon_color=FFFFFF&border_color=39de94" />
+    </a>
+    <a href="https://github.com/dgh06175/github-readme-stats">
+        <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgh06175&layout=compact&title_color=4ABB88&border_color=39de94" />
+    </a>
+</p>
+
 
 <!--
 
