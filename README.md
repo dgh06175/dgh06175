@@ -4,13 +4,15 @@
 
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="180px" src="https://github-readme-stats.vercel.app/api?username=dgh06175&show_icons=true&theme=vue&bg_color=FFFFFF,FFFFFF,FFFFFF,FFFFFF,FFFFFF,FFFFFF,ccf7c9,ccf7c9,ccf7c9,ccf7c9&icon_color=FFFFFF&border_color=39de94" />
+        <img height="160px" src="https://github-readme-stats.vercel.app/api?username=dgh06175&show_icons=true&theme=dark" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgh06175&layout=compact&title_color=4ABB88&border_color=39de94" />
+        <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgh06175&layout=compact&theme=dark" />
+    </a>
+    <a href="https://solved.ac/profile/dgh06175">
+        <img height="160px" src="http://mazassumnida.wtf/api/generate_badge?boj=dgh06175" />
     </a>
 </p>
-
 
 <!--
 
