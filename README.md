@@ -14,6 +14,8 @@
   </a>
 </p>
 
+<!--
+
 ## 🎯 Activity
 + **[삼성전자 DX] 동계 대학생 S/W 알고리즘 역량 강화 특강** (2025.02)
 + **Apple Developer Academy @ POSTECH 3기** (2024.03 ~ 2024.12)
@@ -44,3 +46,5 @@
     <img height="115px" src="https://velog-readme-stats.vercel.app/api?name=dgh06175&slug=token-vs-session" />
   </a>
 </p>
+
+-->
