@@ -9,9 +9,9 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="160px" src="https://github-readme-stats.vercel.app/api?username=dgh06175&show_icons=true&theme=dark" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgh06175&layout=compact&theme=dark" />
-  </a>
+  </a> -->
 </p>
 
 <!--
