@@ -1,20 +1,14 @@
 # 이상현 (dgh06175)
-
-<a href="https://solved.ac/profile/dgh06175">
-  <img height="160px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dgh06175" />
-</a>
 <p>
+  <a href="https://solved.ac/profile/dgh06175">
+    <img height="160px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dgh06175" />
+  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="160px" src="https://github-readme-stats.vercel.app/api?username=dgh06175&show_icons=true&theme=dark" />
   </a>
-<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgh06175&layout=compact&theme=dark" />
-  </a> -->
 </p>
 
 [![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/dgh06175?theme=dark&posts=3)](https://velog.io/@dgh06175)
-
-
 
 <!--
 
@@ -32,7 +26,7 @@
 <img src="https://img.shields.io/badge/Java-8B4513?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
 -->
 
-## 📚 Blog Posts
+## 📚 주요 블로그 게시글
 <p>
   <a href="https://velog.io/@dgh06175/%EC%95%A0%ED%94%8C%EB%94%94%EB%B2%A8%EB%A1%9C%ED%8D%BC%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8-%ED%95%9C%EB%8B%AC%ED%9B%84%EA%B8%B0">
     <img height="115px" src="https://velog-readme-stats.vercel.app/api?name=dgh06175&slug=%EC%95%A0%ED%94%8C%EB%94%94%EB%B2%A8%EB%A1%9C%ED%8D%BC%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8-%ED%95%9C%EB%8B%AC%ED%9B%84%EA%B8%B0" />
@@ -49,4 +43,3 @@
     <img height="115px" src="https://velog-readme-stats.vercel.app/api?name=dgh06175&slug=token-vs-session" />
   </a>
 </p>
-
