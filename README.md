@@ -1,4 +1,3 @@
-# 이상현 (dgh06175)
 <p>
   <a href="https://solved.ac/profile/dgh06175">
     <img height="160px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dgh06175" />
